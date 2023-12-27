@@ -1,3 +1,4 @@
+<img align="center" src="https://github.com/Hemant0621/Hemant0621/blob/fa25a8697fdf6131bef561c275a50cc5cae20ed4/5823721_3000079.jpg" />
 <h1 align="center">Hi 👋, I'm Hemant Kumar</h1>
 <h3 align="center">A passionate frontend developer and a tech enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
