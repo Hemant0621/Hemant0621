@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/hemant-kumar-a481a020a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hemantkumar0621" height="30" width="40" /></a>
-<a href="https://fb.com/hemant kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hemant kumar" height="30" width="40" /></a>
+<a href="https://www.instagram.com/hemantkumar211202/" target="blank"><img align="center" src="https://github.com/Hemant0621/Hemant0621/blob/main/instagram.png" alt="hemant kumar" height="30" width="30" /></a>
 <a href="https://www.youtube.com/@sh4rpstatus980" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sh4rpstatus980" height="30" width="40" /></a>
 <a href="https://leetcode.com/Hemant0621/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hemant0621" height="30" width="40" /></a>
 </p>
