@@ -1,6 +1,7 @@
-<img align="center" src="https://github.com/Hemant0621/Hemant0621/blob/fa25a8697fdf6131bef561c275a50cc5cae20ed4/5823721_3000079.jpg" />
 <h1 align="center">Hi 👋, I'm Hemant Kumar</h1>
-<h3 align="center">A passionate frontend developer and a tech enthusiast</h3>
+<img align="center" src="https://github.com/Hemant2335/Hemant2335/blob/8e4044f2e5b922a11ea43fa20966133f214ccbba/assets/helloimage.gif" />
+
+<h2 align="center">A passionate frontend developer and a tech enthusiast</h2>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hemant0621&label=Profile%20views&color=0e75b6&style=flat" alt="hemant0621" /> </p>
 
